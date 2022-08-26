@@ -1,7 +1,0 @@
-# Archivos que o se incluyen en el repositorio 
-
-Nuevo documento de texto.txt
-*.tmp
-
-#Directorios que no se incluyen en el repositorio 
-modules/
